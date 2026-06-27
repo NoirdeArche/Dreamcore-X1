@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"atypeId":5,"description":"Menambah skill Stance","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":90,"value":1}],"iconIndex":128,"name":"Shield","note":"","params":[0,0,0,1,0,1,0,0],"price":25},
-{"id":2,"atypeId":6,"description":"Menambah skill Stance","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":90,"value":1}],"iconIndex":129,"name":"Large Shield","note":"","params":[0,0,0,2,0,2,-1,0],"price":30},
+{"id":1,"atypeId":5,"description":"Saat HP turun ke 50% ketika memakai perisai: Akan masuk\nke dalam status Stance (+50% Chance Counter Attack)","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Shield","note":"<Passive State: 11>","params":[0,0,0,1,0,1,0,0],"price":25},
+{"id":2,"atypeId":6,"description":"Menambah skill Stance","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Large Shield","note":"<Passive State: 11>","params":[0,0,0,2,0,2,-1,0],"price":30},
 {"id":3,"atypeId":1,"description":"Def & Magic Def +2","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"General Armor","note":"","params":[0,0,0,2,0,2,0,0],"price":30},
 {"id":4,"atypeId":2,"description":"Magic Def 3 Def + 2","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Magic Armor","note":"","params":[0,0,0,2,0,3,0,0],"price":35},
 {"id":5,"atypeId":3,"description":"Def +1 Magic Def +1 Agility +1","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Light Armor","note":"","params":[0,0,0,1,0,1,1,0],"price":35},
